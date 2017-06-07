@@ -1,0 +1,87 @@
+<section class="flat-row flat-imagebox index-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-section style2 ">
+                    <div class="top-section">
+                        <p>Discover</p>
+                    </div>
+                    <h1 class="title">Menu Hot</h1>
+                </div>
+            </div><!--col-md-12-->
+        </div><!--row-->
+
+        <div class="row">
+            <div class="flat-divider d10px"></div>
+            <div class="item">
+                <div class="imagebox effect1">
+                    <div class="box-wrap">
+                        <div class="box-image">
+                            <a href="index.html#"><img src="img/25a.jpg" alt="images"></a>
+                        </div>
+                        <div class="box-content">
+                             <h5>Lunch Special</h5>
+                             <ul>
+                                <li>$9.9</li>
+                                <li >
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="imagebox effect1">
+                    <div class="box-wrap">
+                        <div class="box-image">
+                            <a href="index.html#"><img src="img/1a.jpg" alt="images"></a>
+                        </div>
+                        <div class="box-content">
+                             <h5>Ma La Pot</h5>
+                             <ul>
+                                <li>$19.9</li>
+                                <li >
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="imagebox effect1">
+                    <div class="box-wrap">
+                        <div class="box-image">
+                            <a href="index.html#"><img src="img/3a.jpg" alt="images"></a>
+                        </div>
+                        <div class="box-content">
+                             <h5>Garlic Chicken</h5>
+                             <ul>
+                                <li>$9.9</li>
+                                <li >
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                    <i class="fa fa-heart"></i>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div><!--row-->
+    </div><!--container -->
+</section>

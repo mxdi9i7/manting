@@ -1,0 +1,108 @@
+{{>header}}
+	{{>story}}
+	<!-- Flat Why Choose US -->
+<section class="flat-row about-2">
+    <div class="container">
+        <div class="row">
+
+           <div class="col-md-6">
+            <img src="images/imagebox/6.png" alt="images">
+        </div><!--col-md-6-->   
+
+        <div class="col-md-6">
+            <div class="flat-divider d100px"></div>
+            <div class="title-section style2 ">
+                <h1 class="title">Why Choose Us</h1>
+            </div>
+            <p class="entry-content">Sumi is a restaurant, and coffee located on a busy corner site in Farringdon's Exmouth Market. With glazed frontage on two sides of the building, overlooking the market and a bustling</p>
+
+            <ul class="iconlist">
+                <li><i class="fa fa-circle-o"></i> Sumi is a restaurant, bar and coffee roastery located </li>
+                <li><i class="fa fa-circle-o"></i> Sumi is a restaurant, bar and coffee </li>
+                <li><i class="fa fa-circle-o"></i> Sumi is a restaurant, bar and coffee roastery located on a Sumi </li>
+                <li><i class="fa fa-circle-o"></i> restaurant, bar and coffee roastery located </li>
+            </ul>
+        </div><!--col-md-6-->  
+
+
+    </div><!--row-->
+</div><!--container -->
+</section>
+
+<!-- Flat Team -->
+<section class="flat-row team">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-section style2">
+                    <h1 class="title">Creative Team</h1>
+                </div>
+            </div><!--col-md-12-->
+        </div><!--row-->
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="flat-team">
+                    <div class="avatar">              
+                        <img src="images/team/1.png" alt="image">
+                    </div>
+
+                    <div class="content">                                    
+                        <h4 class="name">John Smith</h4>
+                        <p class="position">Master Chef</p>
+                        <div class="social-links style1">
+                            <a href="about.html#"><i class="fa fa-twitter"></i></a>
+                            <a href="about.html#"><i class="fa fa-facebook"></i></a>
+                            <a href="about.html#"><i class="fa fa-instagram"></i></a>
+                            <a href="about.html#"><i class="fa fa-pinterest-p"></i></a>
+                        </div>
+                    </div>
+
+                </div><!--/.flat-team-->
+            </div><!--/.col-md-4-->
+
+            <div class="col-md-4">
+                <div class="flat-team">
+                    <div class="avatar">              
+                        <img src="images/team/2.png" alt="image">
+                    </div>
+
+                    <div class="content">                                    
+                        <h4 class="name">John Smith</h4>
+                        <p class="position">Master Chef</p>
+                        <div class="social-links style1">
+                            <a href="about.html#"><i class="fa fa-twitter"></i></a>
+                            <a href="about.html#"><i class="fa fa-facebook"></i></a>
+                            <a href="about.html#"><i class="fa fa-instagram"></i></a>
+                            <a href="about.html#"><i class="fa fa-pinterest-p"></i></a>
+                        </div>
+                    </div>
+
+                </div><!--/.flat-team-->
+            </div><!--/.col-md-4-->
+
+            <div class="col-md-4">
+                <div class="flat-team">
+                    <div class="avatar">              
+                        <img src="images/team/3.png" alt="image">
+                    </div>
+
+                    <div class="content">                                    
+                        <h4 class="name">John Smith</h4>
+                        <p class="position">Master Chef</p>
+                        <div class="social-links style1">
+                            <a href="about.html#"><i class="fa fa-twitter"></i></a>
+                            <a href="about.html#"><i class="fa fa-facebook"></i></a>
+                            <a href="about.html#"><i class="fa fa-instagram"></i></a>
+                            <a href="about.html#"><i class="fa fa-pinterest-p"></i></a>
+                        </div>
+                    </div>
+
+                </div><!--/.flat-team-->
+            </div><!--/.col-md-4-->
+
+
+        </div><!--/.row-->
+    </div><!--/.container -->
+</section>
+{{>footer}}

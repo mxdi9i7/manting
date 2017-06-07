@@ -17,7 +17,7 @@
 
     <!-- Theme Style -->
     <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
-
+    <link rel="stylesheet" href="stylesheets/custom.css">
     <!-- Responsive -->
     <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/jquery.datetimepicker.css">
@@ -46,7 +46,7 @@
                 <h2 class="loader">Loading</h2>
             </div>
         </section>  
-
+        
         <div class="box">
             <header id="header" class="header clearfix">
                 <div class="header-wrap clearfix">
@@ -57,37 +57,27 @@
                     </div>
                         <nav id="mainnav" class="mainnav">
                             <ul class="menu">
-                                <li class="has-sub">   
-                                    <a href="index.html#">Home</a>
-                                    <ul class="submenu right-sub-menu "> 
-                                        <li ><a href="index.html">Home 1</a></li>
-                                    </ul><!-- /.submenu --> 
+                                <li>   
+                                    <a href="/">Home</a>
                                 </li>
-                                <li> <a href="menu.html">Menu</a>
-                                   <ul class="submenu"> 
-                                        <li ><a href="menu.html">Menu</a></li>
-                                        <li ><a href="menu-single.html">Menu Single</a></li>
-                                    </ul>
+                                <li> 
+                                    <a href="/menu">Menu</a>
                                 </li>
-                                <li> <a href="reservation.html">Reservation </a></li>
-                                <li> <a href="shop.html">Shop</a></li>
+                                <li> 
+                                    <a href="/reservation">Reservation </a>
+                                </li>
                                 <li class="logo">
-                                    <a href="index.html"> <img src="images/logo.png" alt="image"></a>
+                                    <a href="/"> <img src="images/logo.png" alt="image"></a>
                                 </li>
-                                <li class="has-sub"> <a href="blog.html">Blog</a>
-                                    <ul class="submenu right-sub-menu "> 
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
-                                    </ul>
+                                <li class="has-sub"> 
+                                    <a href="/about">About Us</a>
                                 </li>
-                                <li class="has-sub"> <a href="about.html">About Us</a></li>
-                                <li><a href="index.html#">Page</a>
-                                    <ul class="submenu"> 
-                                        <li ><a href="gallary.html">Gallery</a></li>
-                                    </ul>
-
+                                <li>
+                                    <a href="/gallery">Gallery</a>
                                 </li>
-                                <li> <a href="contact.html">Contact</a></li>
+                                <li> 
+                                    <a href="/contact">Contact</a>
+                                </li>
                             </ul><!--/.menu -->                                      
                         </nav><!--/.mainnav -->
                     </div><!--/.container -->

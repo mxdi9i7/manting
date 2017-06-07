@@ -1,0 +1,142 @@
+{{>header}}
+
+<!-- Flat projects portfolio -->
+<section class="flat-row gallery-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-section style1 ">
+                    <h1 class="title">Gallery Photo</h1>
+                </div>
+            </div><!--col-md-12-->
+        </div><!--row-->
+
+        <div class="row">
+         
+         <div class="flat-projects-portfolio ">
+            <ul class="portfolio-filter">
+                <li class="active"><a data-filter="*" href="gallary.html#">All Gallery </a></li>
+                <li class=""><a data-filter=".find" href="gallary.html#">Fine Dining</a></li>
+                <li class=""><a data-filter=".coffe" href="gallary.html#">Coffee Shop</a></li>
+                <li class=""><a data-filter=".drink" href="gallary.html#"> Drink & Bar  </a></li>
+                <li class=""><a data-filter=".catering" href="gallary.html#"> Catering Services  </a></li>
+            </ul><!-- /.project-filter -->
+
+            <div class="projects-portfolio"> 
+                <div class="projects-portfolio-wrap">
+                    <div class="item houses" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/1.jpg" alt="image"></a>
+                        </div>
+                    </div><!-- /.item -->
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item houses find" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/3.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->  
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item houses find">
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/5.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap --> 
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item coffe ">
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/4.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap --> 
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item drink coffe" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/6.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->  
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio/2.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/3.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/4.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/5.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/7.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/8.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+                <div class="projects-portfolio-wrap">
+                    <div class="item catering drink" >
+                        <div class="portfolio-img flat-hover-images">
+                            <a href="gallery-list.html"><img src="images/portfolio2/6.jpg" alt="image"></a>
+                            
+                        </div>
+                    </div>
+                </div><!-- /.projects-portfolio-wrap -->
+
+
+                
+            </div><!-- /.projects-portfolio -->
+        </div>
+        
+    </div><!--row-->
+</div><!--container -->
+</section>
+
+{{>footer}}

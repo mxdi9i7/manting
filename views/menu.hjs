@@ -1,0 +1,132 @@
+{{>header}}
+	   <!-- Page Title -->
+        <div class="page-title parallax parallax1 flat_strech">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">                    
+                        <div class="page-title-heading">
+                            <h1 class="title menu-title">Our menu</h1>
+                            <div class="breadcrumbs">
+                                <ul>
+                                    <li> <a href="menu.html#">Home </a></li>
+                                    <li><a href="menu.html#">Our menu</a></li>
+                                </ul>                   
+                            </div>
+                        </div><!-- /.page-title-captions -->                        
+                    </div><!-- /.col-md-12 -->  
+                </div><!-- /.row -->  
+            </div><!-- /.container -->                      
+        </div>  
+
+	<section class="flat-row menu-1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="title-section style1 ">
+                            <div class="top-section">
+                                <p>Discover</p>
+                            </div>
+                            <h1 class="title">Menu Hot</h1>
+                        </div>
+                    </div><!--col-md-12-->
+                </div><!--row-->
+
+                <div class="row">
+                    <div class="col-sm-3 col-xs-6">
+                        <div class="product effect1">
+                            <div class="box-wrap">
+                                <div class="box-image">
+                                    <a href="menu.html#"><img src="images/imagebox/2.jpg" alt="images"></a>
+                                </div>
+                                <div class="box-content">
+                                   <h6>ITALIAN SOURCE MUSHROOM</h6>
+                                   <ul>
+                                        <li>$19.9</li>
+                                        <li>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <div class="product effect1">
+                            <div class="box-wrap">
+                                <div class="box-image">
+                                    <a href="menu.html#"><img src="images/imagebox/3.jpg" alt="images"></a>
+                                </div>
+                                <div class="box-content">
+                                   <h6>CRAB WITH CURRY SOURCES</h6>
+                                   <ul>
+                                        <li>$19.9</li>
+                                        <li>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <div class="product effect1">
+                            <div class="box-wrap">
+                                <div class="box-image">
+                                    <a href="menu.html#"><img src="images/imagebox/4.jpg" alt="images"></a>
+                                </div>
+                                <div class="box-content">
+                                   <h6>PORK WITH ITALIAN SALSA</h6>
+                                   <ul>
+                                        <li>$19.9</li>
+                                        <li>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 col-xs-6">
+                        <div class="product effect1">
+                            <div class="box-wrap">
+                                <div class="box-image">
+                                    <a href="menu.html#"><img src="images/imagebox/4.jpg" alt="images"></a>
+                                </div>
+                                <div class="box-content">
+                                   <h6>PORK WITH ITALIAN SALSA</h6>
+                                   <ul>
+                                        <li>$19.9</li>
+                                        <li>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                            <i class="fa fa-heart"></i>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                   
+                </div><!--row-->
+            </div><!--container -->
+        </section>
+	{{>menu}}
+{{>footer}}
